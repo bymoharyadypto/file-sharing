@@ -1,5 +1,3 @@
-Tentu, berikut adalah dokumentasi API yang mencakup langkah-langkah instalasi dan informasi endpoint untuk sender dan receiver:
-
 ### Instalasi Node.js dan npm
 1. Instal Node.js dan npm dari situs resmi: [Node.js](https://nodejs.org/)
 
