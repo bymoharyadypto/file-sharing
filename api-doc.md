@@ -17,5 +17,3 @@
 ### Endpoint
 - Endpoint sender: [http://localhost:5000/](http://localhost:5000/)
 - Endpoint receiver: [http://localhost:5000/receiver.html](http://localhost:5000/receiver.html)
-
-Dengan ini, Anda seharusnya dapat menjalankan API dan mengakses endpoint sender dan receiver sesuai dengan kebutuhan Anda. Jangan lupa untuk menyesuaikan logika sesuai dengan kebutuhan aplikasi Anda.
